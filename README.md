@@ -1,3 +1,31 @@
+Snapchat Clone
+
+🌟 Overview
+
+Snapchat Clone is a React.js-powered social media application that replicates key features of Snapchat, allowing users to send disappearing messages, share stories, and chat in real time. Built with Firebase, it ensures fast and secure communication with Google authentication for user security.
+
+🚀 Features
+
+📸 Snap & Share - Capture and send photos or videos that disappear after viewing.
+
+🔒 Secure Authentication - Google authentication for safe and easy login.
+
+🕒 Disappearing Messages - Messages automatically vanish after a set duration.
+
+📖 Stories Feature - Share images or videos as stories that last 24 hours.
+
+⚡ Real-Time Chat - Instant messaging with friends and groups.
+
+📱 Responsive Design - Optimized for both desktop and mobile use.
+
+🌍 Cloud Storage - Store and manage media files securely with Firebase.
+
+🛠️ Tech Stack
+
+Frontend: React.js
+
+Backend & Database: Firebase
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
